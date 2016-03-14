@@ -1,0 +1,68 @@
+body{
+  background-color: #C9D5ED;
+}
+
+#navbar{
+  background-color: #223f7b;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.jumbotron{
+  display: inline;
+}
+
+.jumbotron img{
+  width: 100%;
+  height: auto;
+}
+
+
+#topicTitle {
+  padding-top: 25px;
+}
+
+#topicSubTitle a{
+  color: #223f7b;
+}
+#navbar :hover,
+#navbar :focus {
+  color: white;
+  text-decoration: none;
+}
+
+p {
+  color: #223f7b;
+  font-size: 16px;
+}
+ul{
+  color: #223f7b;
+  font-size: 16px;
+  list-style-image: url();
+}
+
+.nobullet{
+  list-style-type: none;
+}
+
+.fancybullet{
+  list-style-image: url('../img/skinnyspiral.png');
+}
+
+#copyrightbar{
+  font-size: 12px;
+  text-align: center;
+  color: #6A83B5;
+  padding-bottom: 15px;
+  padding-top: 65px;
+}
+
+#copyrightbar a{
+  color: #6A83B5;
+}
+
+#copyrightbar  :hover,
+#copyrightbar  :focus {
+  color: #223f7b;
+  text-decoration: none;
+}
