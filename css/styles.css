@@ -6,6 +6,11 @@ body{
   background-color: #223f7b;
   padding-top: 10px;
   padding-bottom: 10px;
+
+}
+#navbar .row{
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .jumbotron{
